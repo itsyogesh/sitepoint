@@ -1,0 +1,11 @@
+/* color and inheritance */
+
+p {color: red; }
+
+/* border and inheritence */
+
+p {border: 1px solid red; }
+
+/* font-size and inheritance */
+
+p { font-size: 200%; }
