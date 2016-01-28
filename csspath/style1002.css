@@ -1,0 +1,7 @@
+@import url("style1002-print.css") screen, print;
+
+body {
+	margin: 0;
+	padding: 20px;
+	font-size: 100%;
+}
